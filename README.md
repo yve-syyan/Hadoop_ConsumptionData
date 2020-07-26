@@ -1,13 +1,12 @@
 # Data Preprocessing on Hadoop
 
+This project ingest the sales data from the data warehouse into the data lake and prepare it for analysis and consumption using Hadoop. Raw data has been stored in an S3 bucket.
+
 ## Table of Contents
 - [Background](#background)
 - [Install](#Install)
 - [Usage](#Usage)
 
-## Background 
-
-This project ingest the sales data from the data warehouse into the data lake and prepare it for analysis and consumption using Hadoop. Raw data has been stored in an S3 bucket.
 
 ## Install
 
