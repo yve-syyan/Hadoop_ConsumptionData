@@ -1,4 +1,4 @@
-# CSCI 5751 Project 2 - Team Tin
+# Data Preprocessing on Hadoop
 
 ## Table of Contents
 - [Background](#background)
